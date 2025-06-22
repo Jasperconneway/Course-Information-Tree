@@ -1,0 +1,5 @@
+﻿  CS499_CourseInformationTree.cpp
+C:\Users\jbcon\source\repos\CS499_CourseInformationTree\CS499_CourseInformationTree\CS499_CourseInformationTree.cpp(364,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jbcon\source\repos\CS499_CourseInformationTree\CS499_CourseInformationTree\CS499_CourseInformationTree.cpp(365,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jbcon\source\repos\CS499_CourseInformationTree\CS499_CourseInformationTree\CS499_CourseInformationTree.cpp(287,1): warning C4715: 'CourseInformationTree::FindCourse': not all control paths return a value
+  CS499_CourseInformationTree.vcxproj -> C:\Users\jbcon\source\repos\CS499_CourseInformationTree\x64\Debug\CS499_CourseInformationTree.exe
